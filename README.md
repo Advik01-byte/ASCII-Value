@@ -92,7 +92,7 @@ I did this by:
 ```C++
 (char)num
 ```
-OR
+AND
 ```C++
 (int)Char
 ```
