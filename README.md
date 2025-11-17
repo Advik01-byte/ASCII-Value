@@ -3,7 +3,7 @@
 ## What are ASCII Values?
 
 - ASCII values are numerical codes that represent characters in computers and other electronic devices.
-- The standard is called the American Standard Code for Information Interchange, or ASCII, which serves as a common language between machines for handling text-based data.
+- The standard is called the **American Standard Code for Information Interchange**, or **ASCII**, which serves as a common language between machines for handling text-based data.
 
 ## Standard ASCII
 
@@ -51,9 +51,9 @@ To make all of this happen, just answer the questions in the command prompt acco
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-# C++
+# C++ & C
 
-If you don't know, I created all of this using `C++`
+If you don't know, I created all of this using `C++` and `C`
 
 The two main functions:
 ```C++
@@ -97,4 +97,4 @@ AND
 (int)Char
 ```
 
-You can see the `.cpp` file for the whole code.
+You can see the `.cpp` or `.c` files for the whole code.
