@@ -46,8 +46,10 @@ ________________________________________________________________________________
 - Get character from ASCII Value.
 - Get ASCII Value from character.
 - Get ASCII Value in binary from character.
+### Using C `.exe` file:
+- Get the whole list of ASCII value to character.
 
-To make all of this happen, just answer the questions in the command prompt accordingly.
+To make all of this happen, just answer the questions in the command prompt accordingly or choose the C `.exe` file for the table.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
